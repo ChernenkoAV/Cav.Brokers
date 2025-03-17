@@ -21,8 +21,6 @@
 
     <PropertyGroup Condition="'$(Configuration)' == 'Release'">
         <RepositoryType>git</RepositoryType>
-        <RepositoryUrl>https://github.com/ChernenkoAV/CAVLibrarys.git</RepositoryUrl>
-        <PackageProjectUrl>https://github.com/ChernenkoAV/CavLibrarys</PackageProjectUrl>
 
         <DebugType>portable</DebugType>
         <Optimize>true</Optimize>
